@@ -20,7 +20,7 @@ Page({
     onReady: function () {
         qrcode = new QRCode('canvas', {
             // usingIn: this,
-            text: "https://github.com/tomfriwel/weapp-qrcode",
+            text: "https://github.com/wenchenkof2001/alipay_program_qrcode",
             image: '/images/bg.jpg',
             width: qrcodeWidth,
             height: qrcodeWidth,
